@@ -6,7 +6,7 @@
 
 ![Architecture](./diagram/architecture.png)
 
-------
+------------
 
 ## Table of contents
 
