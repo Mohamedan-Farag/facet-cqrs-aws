@@ -7,7 +7,7 @@
 ![Architecture](./diagram/architecture.png)
 
 ---------
-
+------
 ## Table of contents
 
 | # | Section | Deep dive |
