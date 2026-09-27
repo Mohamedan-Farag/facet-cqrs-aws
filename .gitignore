@@ -2,7 +2,7 @@
 *.bkp
 *.dtmp
 
-# AWS SAM
+# AWS saa
 .aws-sam/
 samconfig.toml
 packaged.yaml
